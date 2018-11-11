@@ -113,7 +113,7 @@ const Actions = [{
       },
       {
         text: '日',
-        hsla: color3
+        hsla: color2
       },
       {
         text: '快',
@@ -125,7 +125,7 @@ const Actions = [{
       },
       {
         text: ' ❤️ ',
-        hsla: color2
+        hsla: color3
       },
     ]
   },
