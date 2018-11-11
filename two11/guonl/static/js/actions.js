@@ -22,7 +22,7 @@ const points2 = [];
 const Actions = [{
     lifeTime: 60,
     texts: [{
-      text: '蕾',
+      text: '郭',
       hsla: color1
     }]
   },
@@ -101,30 +101,30 @@ const Actions = [{
   {
     lifeTime: 60,
     texts: [{
-      text: '郭',
+      text: '蕾',
       hsla: color1
     }]
   },
   {
     lifeTime: 180,
     texts: [{
-        text: 'I',
+        text: '节',
         hsla: color2
       },
       {
-        text: ' ❤️ ',
+        text: '日',
         hsla: color3
       },
       {
-        text: 'Y',
+        text: '快',
         hsla: color2
       },
       {
-        text: 'O',
+        text: '乐',
         hsla: color2
       },
       {
-        text: 'U',
+        text: ' 🎈 ',
         hsla: color2
       },
     ]
